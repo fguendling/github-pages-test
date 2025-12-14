@@ -155,7 +155,7 @@ export default function Home() {
               GitHub
             </a>
             <a
-              href="mailto:contact@felixguendling.com"
+              href="mailto:felix.g@live.de"
               className="px-8 py-3 border-2 border-blue-600 text-blue-600 dark:text-blue-400 rounded-lg hover:bg-blue-50 dark:hover:bg-gray-800 transition-colors font-medium inline-flex items-center gap-2"
             >
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
