@@ -37,7 +37,7 @@ export default function Home() {
           <h2 className="text-4xl font-bold mb-12 text-center text-gray-900 dark:text-white">
             About Me
           </h2>
-          <div className="prose prose-lg dark:prose-invert mx-auto">
+          <div className="mx-auto max-w-3xl">
             <p className="text-gray-700 dark:text-gray-300 text-lg leading-relaxed mb-6">
               I&apos;m a software engineer with a passion for creating elegant solutions to complex problems.
               My expertise spans across full-stack development, with a focus on building scalable and
